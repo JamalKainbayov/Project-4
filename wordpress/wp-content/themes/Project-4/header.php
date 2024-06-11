@@ -8,7 +8,7 @@
     <title>Index</title>
 </head>
 <nav>
-    <?php wp_nav_menu(); ?>
+
 </nav>
 <style>
     <?php include 'style.css'; ?>
