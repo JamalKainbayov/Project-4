@@ -29,3 +29,14 @@
     background-color: yellow;
     padding: 8px;
 }
+.artist-name  {
+    font-weight: bold;
+    margin-right: 700px;
+    font-size: 30px;
+}
+
+
+
+a:hover {
+    text-shadow: 0 0 .65px #333, 0 0 .65px #333;
+}

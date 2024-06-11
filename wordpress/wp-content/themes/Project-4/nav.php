@@ -1,4 +1,5 @@
 <nav class="nav-bar">
+    <div class="artist-name">Niek Hendrix</div>
     <ul>
         <li><a href="#">Paintings</a></li>
         <li><a href="#">Biography</a></li>
