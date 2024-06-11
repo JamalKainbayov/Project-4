@@ -4,7 +4,7 @@
         <li><a href="#">Biography</a></li>
         <li><a href="#">Artist Statement</a></li>
         <li><a href="#">Media</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a class="Contact" href="#">Contact</a></li>
     </ul>
 </nav>
 

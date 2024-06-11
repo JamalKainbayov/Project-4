@@ -32,9 +32,11 @@ h1::before {
 p {
     padding: 40px;
     font-size: 20px;
+    color: black;
 }
 
 .wp-block-columns {
     display: flex;
     gap: 20px;
 }
+

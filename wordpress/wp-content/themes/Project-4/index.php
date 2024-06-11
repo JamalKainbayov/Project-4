@@ -8,3 +8,7 @@
     <?php include 'footer.php'?>
 </footer>
 </html>
+
+<style>
+    <?php include 'style.css'; ?>
+</style>
