@@ -9,10 +9,10 @@ body {
 
 h1 {
     position: relative;
-    font-size: 48px;
+    font-size: 10vh;
     text-transform: uppercase;
     text-align: center;
-    margin: 25px 0;
+    margin: 8vh 0;
     line-height: 1;
 
 }
@@ -36,7 +36,11 @@ p {
 }
 
 .wp-block-columns {
+    margin: 20px;
     display: flex;
     gap: 20px;
 }
 
+img {
+    width: 50vh;
+}
