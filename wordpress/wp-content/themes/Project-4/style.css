@@ -1,3 +1,31 @@
-p{
-    color: red;
+/*  deze styling page is alleen voor de Title van de pagina */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Use the desired font */
+    background-color: white;
 }
+
+h1 {
+    position: relative;
+    font-size: 48px; /* Adjust as needed */
+    text-transform: uppercase;
+    text-align: center; /* Center the text */
+    margin: 50px 0; /* Space from the top and bottom */
+    line-height: 1; /* Adjust line height to align with the line */
+}
+
+h1::before {
+    content: '';
+    position: absolute;
+    top: 50%; /* Align with the middle of the text */
+    left: 0;
+    width: 100vw; /* Span the entire viewport width */
+    height: 3px; /* Adjust thickness as needed */
+    background-color: yellow;
+    z-index: -1; /* Ensure the line is behind the text */
+    transform: translateX(-0%) translateY(-0%); /* Center horizontally and vertically */
+}
+
+
