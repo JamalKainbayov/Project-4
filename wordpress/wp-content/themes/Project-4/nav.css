@@ -16,7 +16,7 @@
 
 .nav-bar ul li {
     float: left;
-    margin-right: 100px;
+    margin-right: 80px;
 }
 .nav-bar ul li a {
     text-decoration: none;
@@ -27,4 +27,5 @@
 .Contact  {
     color: yellow;
     background-color: yellow;
+    padding: 8px;
 }
