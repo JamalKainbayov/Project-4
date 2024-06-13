@@ -32,10 +32,12 @@
     font-weight: bold;
     margin-right: 400px;
     font-size: 30px;
+    text-decoration: none;
+    color: black;
 }
 
 
 
-a:hover {
+.hover:hover {
     text-shadow: 0 0 .65px #333, 0 0 .65px #333;
 }
