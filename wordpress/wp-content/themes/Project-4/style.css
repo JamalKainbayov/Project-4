@@ -30,15 +30,18 @@ h1::before {
 }
 
 p {
-    padding: 40px;
+    padding: 4vh;
     font-size: 20px;
     color: black;
+    max-width: 70%;
 }
 
 .wp-block-columns {
-    margin: 20px;
+    margin-left: 20vh;
+    margin-right: 20vh;
     display: flex;
-    gap: 20px;
+    justify-content: center;
+    gap: 10vh;
 }
 
 img {
