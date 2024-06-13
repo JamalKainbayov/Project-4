@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.5.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-18 10:04:51+0000\n"
+"PO-Revision-Date: 2024-06-07 18:19:53+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -42,7 +42,7 @@ msgstr "html_lang_attribute"
 #, gp-priority: high
 msgctxt "decline months names: on or off"
 msgid "off"
-msgstr "uit"
+msgstr "off"
 
 #. translators: If your word count is based on single characters (e.g. East
 #. Asian characters), enter 'characters_excluding_spaces' or
@@ -56,7 +56,7 @@ msgstr "uit"
 #, gp-priority: high
 msgctxt "Word count type. Do not translate!"
 msgid "words"
-msgstr "woorden"
+msgstr "words"
 
 #: wp-includes/admin-bar.php:186
 #: wp-includes/widgets/class-wp-widget-meta.php:91 wp-login.php:125
@@ -73,7 +73,7 @@ msgstr "https://wordpress.org/"
 #, gp-priority: high
 msgctxt "Open Sans font: on or off"
 msgid "on"
-msgstr "aan"
+msgstr "on"
 
 #. translators: Localized date and time format, see
 #. https://www.php.net/manual/datetime.format.php
@@ -723,25 +723,25 @@ msgstr "Google Fonts"
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:104
 #: wp-admin/options-general.php:132 wp-admin/js/site-icon.js:161
 msgid "App icon preview: The current image has no alternative text. The file name is: %s"
-msgstr "App pictogram voorvertoning: De huidige afbeelding heeft geen alternatieve tekst, de bestandsnaam is: %s"
+msgstr "App icoon voorvertoning: De huidige afbeelding heeft geen alternatieve tekst, de bestandsnaam is: %s"
 
 #. translators: %s: The selected image alt text.
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:96
 #: wp-admin/options-general.php:145 wp-admin/js/site-icon.js:150
 msgid "App icon preview: Current image: %s"
-msgstr "App pictogram voorvertoning: Huidige afbeelding: %s"
+msgstr "App icoon voorvertoning: Huidige afbeelding: %s"
 
 #. translators: %s: The selected image filename.
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:82
 #: wp-admin/options-general.php:138 wp-admin/js/site-icon.js:168
 msgid "Browser icon preview: The current image has no alternative text. The file name is: %s"
-msgstr "Browser pictogram voorbeeld: De huidige afbeelding heeft geen alternatieve tekst. De bestandsnaam is: %s"
+msgstr "Browser icoon voorbeeld: De huidige afbeelding heeft geen alternatieve tekst. De bestandsnaam is: %s"
 
 #. translators: %s: The selected image alt text.
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:74
 #: wp-admin/options-general.php:151 wp-admin/js/site-icon.js:155
 msgid "Browser icon preview: Current image: %s"
-msgstr "Browser pictogram voorbeeld: Huidige afbeelding: %s"
+msgstr "Browser icoon voorbeeld: Huidige afbeelding: %s"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:73
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:75
@@ -762,16 +762,16 @@ msgstr "Vermeldingen in de afhankelijkheden array moeten ofwel strings zijn, of 
 msgid "Missing required id key in entry among dependencies array."
 msgstr "Ontbrekende vereiste id-sleutel in invoer in de array met afhankelijkheden."
 
-#: wp-includes/class-wp-plugin-dependencies.php:530
+#: wp-includes/class-wp-plugin-dependencies.php:531
 msgid "All required plugins are installed and activated."
 msgstr "Alle vereiste plugins zijn geïnstalleerd en geactiveerd."
 
 #. translators: %s: A list of inactive dependency plugin names.
-#: wp-includes/class-wp-plugin-dependencies.php:522
+#: wp-includes/class-wp-plugin-dependencies.php:523
 msgid "The following plugins must be activated first: %s."
 msgstr "De volgende plugins moeten eerst worden geactiveerd: %s."
 
-#: wp-includes/class-wp-plugin-dependencies.php:493
+#: wp-includes/class-wp-plugin-dependencies.php:494
 msgid "The plugin has no required plugins."
 msgstr "De plugin heeft geen vereiste plugins."
 
@@ -827,7 +827,7 @@ msgstr "\"%1$s\" in %2$s %3$s is geen hex- of rgb-string."
 #: wp-includes/class-wp-customize-manager.php:5202
 #: wp-admin/options-general.php:202
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr "Het sitepictogram is wat je ziet in browsertabs, de bladwijzerbalk, en in de mobiele apps van WordPress. Het zou vierkant moeten zijn en tenminste %s pixels."
+msgstr "Het site-icoon is wat je ziet in browsertabs, de bladwijzerbalk, en in de mobiele apps van WordPress. Het zou vierkant moeten zijn en tenminste %s pixels."
 
 #. translators: %s: Block bindings source name.
 #: wp-includes/class-wp-block-bindings-registry.php:222
@@ -1991,7 +1991,7 @@ msgstr "De slug van de template om de fallback voor te krijgen"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:405
 msgid "The icon for the post type."
-msgstr "Het pictogram voor het berichttype."
+msgstr "Het icoon voor het berichttype."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:362
 msgid "If the value is a string, the value will be used as the archive slug. If the value is false the post type has no archive."
@@ -2646,7 +2646,7 @@ msgstr "Je thema ondersteunt site bewerken met blokken. <a href=\"%1$s\">Vertel 
 
 #: wp-includes/blocks/site-logo.php:90
 msgid "Site icon."
-msgstr "Site pictogram."
+msgstr "Site icoon."
 
 #: wp-includes/blocks/term-description/block.json
 msgctxt "block description"
@@ -3643,12 +3643,12 @@ msgstr "Alleen logo's"
 #: wp-includes/blocks/social-links/block.json
 msgctxt "block description"
 msgid "Display icons linking to your social media profiles or sites."
-msgstr "Pictogrammen tonen die linken naar je socialmediaprofielen of sites."
+msgstr "Iconen tonen die linken naar je socialmediaprofielen of sites."
 
 #: wp-includes/blocks/social-link/block.json
 msgctxt "block description"
 msgid "Display an icon linking to a social media profile or site."
-msgstr "Een pictogram tonen die linkt naar een socialmediaprofiel of site."
+msgstr "Een icoon tonen die linkt naar een socialmediaprofiel of site."
 
 #: wp-includes/blocks/site-title/block.json
 msgctxt "block title"
@@ -4906,12 +4906,12 @@ msgstr "De parameter %1$s moet een array zijn. Gebruik in plaats daarvan de func
 #: wp-includes/blocks/social-link/block.json
 msgctxt "block title"
 msgid "Social Icon"
-msgstr "Social pictogram"
+msgstr "Social icoon"
 
 #: wp-includes/blocks/social-links/block.json
 msgctxt "block title"
 msgid "Social Icons"
-msgstr "Social pictogrammen"
+msgstr "Social iconen"
 
 #: wp-includes/blocks/tag-cloud/block.json
 msgctxt "block title"
@@ -6116,7 +6116,7 @@ msgstr "De datum waarop het blok voor het laatst is geüpdatet, in voor mensen l
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:276
 msgid "The block icon."
-msgstr "Het blok pictogram."
+msgstr "Het blok icoon."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:271
 msgid "The WordPress.org username of the block author."
@@ -6496,7 +6496,7 @@ msgstr "Blok attributen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:453
 msgid "Icon of block type."
-msgstr "Pictogram van het bloktype."
+msgstr "Icoon van het bloktype."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php:496
 msgid "Description of block type."
@@ -7546,7 +7546,7 @@ msgstr "Beheerder"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:248
 msgid "Select Site Icon"
-msgstr "Site-pictogram selecteren"
+msgstr "Site-icoon selecteren"
 
 #: wp-includes/user.php:4614
 msgid "An incomplete personal data request for this email address already exists."
@@ -8587,7 +8587,7 @@ msgstr "Je hebt onvoldoende rechten."
 #: wp-admin/includes/class-custom-image-header.php:1032
 #: wp-admin/includes/file.php:638 wp-admin/media-upload.php:38
 #: wp-admin/themes.php:27 wp-admin/themes.php:70 wp-admin/users.php:158
-#: wp-admin/js/tags.js:62 wp-admin/js/updates.js:2354
+#: wp-admin/js/tags.js:62 wp-admin/js/updates.js:2327
 #: wp-admin/network/site-users.php:158
 msgid "Something went wrong."
 msgstr "Er is iets fout gegaan."
@@ -12047,7 +12047,7 @@ msgstr "Niet-bestaande termen."
 #: wp-includes/customize/class-wp-customize-theme-control.php:260
 #: wp-admin/includes/theme.php:1071 wp-admin/theme-install.php:408
 #: wp-admin/theme-install.php:488 wp-admin/themes.php:616
-#: wp-admin/themes.php:988 wp-admin/themes.php:1222 wp-admin/js/updates.js:1829
+#: wp-admin/themes.php:988 wp-admin/themes.php:1222 wp-admin/js/updates.js:1802
 msgctxt "theme"
 msgid "Activate %s"
 msgstr "%s activeren"
@@ -13133,19 +13133,19 @@ msgstr "Menunaam"
 
 #: wp-includes/media-template.php:1558
 msgid "Preview as an app icon"
-msgstr "Voorbeeld als een app-pictogram"
+msgstr "Voorbeeld als een app-icoon"
 
 #: wp-includes/media-template.php:1556
 msgid "As an app icon"
-msgstr "Als app-pictogram"
+msgstr "Als app-icoon"
 
 #: wp-includes/media-template.php:1551
 msgid "Preview as a browser icon"
-msgstr "Voorbeeld als een browser pictogram"
+msgstr "Voorbeeld als een browser icoon"
 
 #: wp-includes/media-template.php:1546
 msgid "As a browser icon"
-msgstr "Als een browser pictogram"
+msgstr "Als een browser icoon"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1231
 msgid "No items"
@@ -13203,7 +13203,7 @@ msgstr "Headerafbeelding verbergen"
 #: wp-includes/js/dist/editor.js:12182 wp-admin/includes/template.php:2452
 #: wp-admin/options-general.php:102
 msgid "Site Icon"
-msgstr "Site pictogram"
+msgstr "Site icoon"
 
 #: wp-includes/class-wp-customize-manager.php:5124
 msgid "Site Identity"
@@ -13940,7 +13940,7 @@ msgstr "Linktekst"
 #: wp-admin/theme-install.php:420 wp-admin/theme-install.php:437
 #: wp-admin/themes.php:625 wp-admin/themes.php:634 wp-admin/themes.php:995
 #: wp-admin/themes.php:1003 wp-admin/themes.php:1225 wp-admin/themes.php:1236
-#: wp-admin/js/updates.js:1844
+#: wp-admin/js/updates.js:1817
 msgid "Live Preview"
 msgstr "Live voorbeeld"
 
@@ -15231,7 +15231,7 @@ msgstr "Rechts uitlijnen"
 #: wp-includes/class-wp-customize-widgets.php:805
 #: wp-admin/includes/ajax-actions.php:1107
 #: wp-admin/includes/ajax-actions.php:2379 wp-admin/js/media.js:127
-#: wp-admin/js/media.js:132 wp-admin/js/updates.js:2363
+#: wp-admin/js/media.js:132 wp-admin/js/updates.js:2336
 msgid "An error has occurred. Please reload the page and try again."
 msgstr "Er is een fout opgetreden. Vernieuw de pagina en probeer het opnieuw."
 
@@ -19998,7 +19998,7 @@ msgstr "Tags toevoegen of verwijderen"
 #: wp-admin/js/post.js:823
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:474
 msgid "Update"
-msgstr "Update"
+msgstr "Updaten"
 
 #: wp-includes/js/dist/editor.js:10231 wp-admin/includes/meta-boxes.php:189
 #: wp-admin/includes/meta-boxes.php:211 wp-admin/js/post.js:905

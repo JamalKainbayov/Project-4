@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.5.x - Development - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-13 08:15:01+0000\n"
+"PO-Revision-Date: 2024-06-07 18:27:00+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -854,7 +854,7 @@ msgstr "Site toegevoegd. <a href=\"%1$s\">Bezoek het dashboard</a> of <a href=\"
 
 #: wp-admin/network/site-new.php:25
 msgid "This screen is for Super Admins to add new sites to the network. This is not affected by the registration settings."
-msgstr "Dit scherm is voor Super beheerders om nieuwe sites toe te voegen aan het netwerk. Dit wordt niet beïnvloed door registratie instellingen."
+msgstr "Dit scherm is voor super beheerders om nieuwe sites toe te voegen aan het netwerk. Dit wordt niet beïnvloed door registratie instellingen."
 
 #: wp-admin/network/site-info.php:121
 msgid "Site info updated."
@@ -1154,7 +1154,7 @@ msgstr "Je kunt ook naar de gebruikers profielpagina gaan door op de individuele
 
 #: wp-admin/network/settings.php:55
 msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
-msgstr "Upload instellingen bepalen de grootte van de geüploade bestanden en de overgebleven uploadruimte die nog beschikbaar is voor elke site. De standaard ruimte voor specifieke sites kan gewijzigd worden door de Super beheerder. De toegestane bestandstypen staan in een overzicht (door spaties gescheiden)."
+msgstr "Upload instellingen bepalen de grootte van de geüploade bestanden en de overgebleven uploadruimte die nog beschikbaar is voor elke site. De standaard ruimte voor specifieke sites kan gewijzigd worden door de super beheerder. De toegestane bestandstypen staan in een overzicht (door spaties gescheiden)."
 
 #: wp-admin/network/sites.php:38
 msgid "Visit to go to the front-end site live."
@@ -1170,7 +1170,7 @@ msgstr "Gebruikers die zijn geregistreerd op het netwerk zonder een eigen site, 
 
 #: wp-admin/network/users.php:234
 msgid "You can sort the table by clicking on any of the table headings and switch between list and excerpt views by using the icons above the users list."
-msgstr "Je kunt de tabel sorteren door op een van de kopteksten te klikken en schakelen tussen de lijst- en samenvatting weergave met de pictogrammen boven de gebruikerslijst."
+msgstr "Je kunt de tabel sorteren door op een van de kopteksten te klikken en schakelen tussen de lijst- en samenvatting weergave met de iconen boven de gebruikerslijst."
 
 #: wp-admin/network/users.php:231
 msgid "This table shows all users across the network and the sites to which they are assigned."
@@ -1186,7 +1186,7 @@ msgstr "Als er geen versie-update aan de core is gedaan, zal klikken op deze kno
 
 #: wp-admin/network/themes.php:315
 msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
-msgstr "Als de Super beheerder een thema uitschakelt wat in gebruik is, kan dat thema nog steeds gebruikt worden door de site-eigenaars die deze site in gebruik hebben. Kiest een site-eigenaar echter een ander thema, dan zal het uitgeschakelde thema niet meer verschijnen in het Weergave > Thema scherm."
+msgstr "Als de super beheerder een thema uitschakelt wat in gebruik is, kan dat thema nog steeds gebruikt worden door de site eigenaren die deze site in gebruik hebben. Kiest een site eigenaar echter een ander thema, dan zal het uitgeschakelde thema niet meer verschijnen in het Weergave > Thema scherm."
 
 #: wp-admin/network/themes.php:314
 msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
@@ -1340,7 +1340,7 @@ msgstr "Registreren is gedeactiveerd"
 
 #: wp-admin/network/settings.php:514
 msgid "Enable administration menus"
-msgstr "Administratiemenu's activeren"
+msgstr "Administratiemenu's inschakelen"
 
 #: wp-admin/network/settings.php:403
 msgid "Upload Settings"
