@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a6360a-6491-4741-904f-7996e65cc78e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2024/06/Niek-Hendrix-Cabinet-The-Vessel-275x370x100cm-Oil-and-pencil-on-panels-in-wooden-cabinet.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Project-4/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/Project-4/nav.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/Project-4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/Project-4/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718098173132</updated>
       <workItem from="1718098174133" duration="1624000" />
-      <workItem from="1718103857071" duration="9495000" />
+      <workItem from="1718103857071" duration="10679000" />
     </task>
     <servers />
   </component>
