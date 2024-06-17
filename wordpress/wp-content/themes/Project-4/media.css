@@ -53,7 +53,7 @@ p {
 }
 #timeline {
     position: relative;
-    height: 800px; /* Adjust as needed */
+    height: 800px;
     width: 2px;
     background-color: black;
     margin: 100px;
@@ -61,17 +61,28 @@ p {
 
 .year-line {
     position: absolute;
-    left: -50px; /* Adjust as needed */
+    left: -50px;
     width: 100px;
-    height: 2px;
+    height: 3px;
     background-color: yellow;
 }
 
-#year-2016 { top: 0%; }
-#year-2017 { top: 14.28%; }
-#year-2018 { top: 28.57%; }
-#year-2019 { top: 42.85%; }
-#year-2020 { top: 57.14%; }
-#year-2021 { top: 71.42%; }
-#year-2022 { top: 85.71%; }
-#year-2023 { top: 100%; }
+#year-2023 { top: 0%; }
+#year-2022 { top: 14.28%; }
+#year-2021 { top: 28.57%; }
+#year-2020 { top: 42.85%; }
+#year-2019 { top: 57.14%; }
+#year-2018 { top: 71.42%; }
+#year-2017 { top: 85.71%; }
+#year-2016 { top: 100%; }
+
+.year-label {
+    position: absolute;
+    left: 110px;
+    transform: translateY(-50%);
+}
+.year-text {
+    position: absolute;
+    left: -150px;
+    transform: translateY(-50%);
+}
