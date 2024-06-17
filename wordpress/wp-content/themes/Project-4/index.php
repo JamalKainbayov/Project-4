@@ -5,6 +5,7 @@
 <?php echo get_the_content()?>
 </body>
 <?php get_footer()  ?>
+<img src="<?php echo esc_html( get_field('slider-2') ); ?>" alt="hi">
 </html>
 
 <style>

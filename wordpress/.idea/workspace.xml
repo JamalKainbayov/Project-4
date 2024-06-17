@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76a6360a-6491-4741-904f-7996e65cc78e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2024/06/Instagram_logo_2022.svg_.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Project-4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/Project-4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/Project-4/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/Project-4/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,8 @@
       <workItem from="1718098174133" duration="1624000" />
       <workItem from="1718103857071" duration="12918000" />
       <workItem from="1718269808545" duration="473000" />
-      <workItem from="1718347816340" duration="767000" />
+      <workItem from="1718347816340" duration="1362000" />
+      <workItem from="1718606882651" duration="3009000" />
     </task>
     <servers />
   </component>
