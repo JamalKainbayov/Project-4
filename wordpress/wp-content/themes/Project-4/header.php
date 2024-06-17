@@ -10,6 +10,4 @@
 <nav>
 
 </nav>
-<style>
-    <?php include 'style.css'; ?>
-</style>
+
