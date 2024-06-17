@@ -1,3 +1,77 @@
-h1{
-    color: blue!important;
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    border-left: 1px solid black; /* Add this line */
 }
+
+h1 {
+    position: relative;
+    font-size: 10vh;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 8vh 0;
+    line-height: 1;
+}
+
+h1::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: yellow;
+    z-index: -1;
+    transform: translateX(-0%) translateY(-0%);
+}
+
+p {
+    padding: 4vh;
+    font-size: 20px;
+    color: black;
+    max-width: 70%;
+    margin: auto;
+}
+
+.wp-block-columns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 75%;
+    margin-left: 12.5%;
+}
+
+.ImgStyling {
+    width: 65vh;
+    height: 55vh;
+}
+
+.InstaLogo {
+    margin-right: 50vh;
+}
+#timeline {
+    position: relative;
+    height: 800px; /* Adjust as needed */
+    width: 2px;
+    background-color: black;
+    margin: 100px;
+}
+
+.year-line {
+    position: absolute;
+    left: -50px; /* Adjust as needed */
+    width: 100px;
+    height: 2px;
+    background-color: yellow;
+}
+
+#year-2016 { top: 0%; }
+#year-2017 { top: 14.28%; }
+#year-2018 { top: 28.57%; }
+#year-2019 { top: 42.85%; }
+#year-2020 { top: 57.14%; }
+#year-2021 { top: 71.42%; }
+#year-2022 { top: 85.71%; }
+#year-2023 { top: 100%; }
