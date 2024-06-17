@@ -4,9 +4,10 @@
 <h1><?php echo get_the_title()?></h1>
 <?php echo get_the_content()?>
 </body>
+<footer>
 <?php get_footer()  ?>
-</html>
-
+</footer>
 <style>
     <?php include 'style.css'; ?>
 </style>
+
