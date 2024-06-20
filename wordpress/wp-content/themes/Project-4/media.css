@@ -53,10 +53,10 @@ p {
 }
 #timeline {
     position: relative;
-    height: 1500px;
+    height: 700px;
     width: 2px;
     background-color: black;
-    margin: 100px;
+    margin: 80px;
 }
 
 .year-line {
@@ -67,14 +67,11 @@ p {
     background-color: yellow;
 }
 
-#year-2023 { top: 7%; }
-#year-2022 { top: 17.28%; }
-#year-2021 { top: 28.57%; }
-#year-2020 { top: 39.85%; }
-#year-2019 { top: 52.14%; }
-#year-2018 { top: 65.42%; }
-#year-2017 { top: 78.71%; }
-#year-2016 { top: 92%; }
+#year-2023 { top: 17%; }
+#year-2022 { top: 27.28%; }
+#year-2021 { top: 38.57%; }
+#year-2017 { top: 58.71%; }
+#year-2016 { top: 72%; }
 
 .year-label {
     position: absolute;
@@ -83,6 +80,26 @@ p {
 }
 .year-text {
     position: absolute;
-    left: -150px;
-    transform: translateY(-50%);
+    left: 80px;
+    top: 17px;
+    color: black;
+    z-index: 1;
+    font-size: 16px;
+    white-space: nowrap;
+    font-weight: bold;
+    margin-right: 400px;
+
 }
+.Copyright {
+    display: flex;
+    justify-content: flex-end;
+    padding: 3vh;
+    font-weight: bold;
+    Border-top: 0.5vh solid;
+}
+a{
+    text-decoration: underline;
+    color: black;
+}
+
+
