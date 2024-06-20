@@ -50,3 +50,11 @@ p {
 .InstaLogo {
     margin-right: 50vh;
 }
+
+.Copyright {
+    display: flex;
+    justify-content: flex-end;
+    padding: 3vh;
+    font-weight: bold;
+    Border-top: 0.5vh solid;
+}

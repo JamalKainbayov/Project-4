@@ -7,7 +7,11 @@
 </body>
 <footer>
 <?php get_footer()  ?>
-Halo
+
+    <div class="Copyright">
+        <?php echo "© " . date("Y") . " Niek Hendrix"; ?>
+    </div>
+
 </footer>
 <style>
     <?php include 'style.css'; ?>
