@@ -51,34 +51,35 @@ p {
 .InstaLogo {
     margin-right: 50vh;
 }
-#timeline {
+#biographylines{
     position: relative;
-    height: 700px;
+    height: 1000px;
     width: 2px;
-    background-color: black;
     margin: 80px;
 }
 
-.year-line {
+.biography-line {
     position: absolute;
-    left: -50px;
-    width: 100px;
+    left: -70px;
+    width: 400px;
     height: 3px;
     background-color: yellow;
 }
 
-#year-2023 { top: 17%; }
-#year-2022 { top: 27.28%; }
-#year-2021 { top: 38.57%; }
-#year-2017 { top: 58.71%; }
-#year-2016 { top: 72%; }
+#bio-1 { top: 7%; }
+#bio-2{ top: 24.28%; }
+#bio-3 { top: 42.57%; }
+#bio-4{ top: 74.71%; }
 
-.year-label {
+
+.biography-label {
     position: absolute;
     left: 110px;
-    transform: translateY(-50%);
+    top: -40px;
+    white-space: nowrap;
+    font-weight: bold;
 }
-.year-text {
+.biography-text {
     position: absolute;
     left: 80px;
     top: 17px;
@@ -86,9 +87,7 @@ p {
     z-index: 1;
     font-size: 16px;
     white-space: nowrap;
-    font-weight: bold;
     margin-right: 400px;
-
 }
 .Copyright {
     display: flex;
@@ -101,5 +100,7 @@ a{
     text-decoration: underline;
     color: black;
 }
-
-
+.year {
+    font-weight: bold;
+    padding: 0.7vh;
+}
